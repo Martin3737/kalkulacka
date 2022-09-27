@@ -1,0 +1,7 @@
+C:\Users\Kucera.Ma.2022\source\repos\kalkulačka1\kalkulačka1\bin\Debug\kalkulačka1.exe.config
+C:\Users\Kucera.Ma.2022\source\repos\kalkulačka1\kalkulačka1\bin\Debug\kalkulačka1.exe
+C:\Users\Kucera.Ma.2022\source\repos\kalkulačka1\kalkulačka1\bin\Debug\kalkulačka1.pdb
+C:\Users\Kucera.Ma.2022\source\repos\kalkulačka1\kalkulačka1\obj\Debug\kalkulačka1.csprojAssemblyReference.cache
+C:\Users\Kucera.Ma.2022\source\repos\kalkulačka1\kalkulačka1\obj\Debug\kalkulačka1.csproj.CoreCompileInputs.cache
+C:\Users\Kucera.Ma.2022\source\repos\kalkulačka1\kalkulačka1\obj\Debug\kalkulačka1.exe
+C:\Users\Kucera.Ma.2022\source\repos\kalkulačka1\kalkulačka1\obj\Debug\kalkulačka1.pdb
